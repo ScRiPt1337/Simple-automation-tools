@@ -3,5 +3,6 @@ simple automation tools i made for personal use
 
 ### How to 1st script depins.py
 ```python
+    This script will install dependencies for any python script required to run
     python3 depins.py script.py
 ```
